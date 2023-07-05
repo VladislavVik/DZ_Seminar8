@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Курсы гигбраинс\Знакомство с языками программирования\Семинары\DZ_Seminar8\task62\bin\Debug\net7.0\task62.exe
+C:\Users\Home\Desktop\Курсы гигбраинс\Знакомство с языками программирования\Семинары\DZ_Seminar8\task62\bin\Debug\net7.0\task62.deps.json
+C:\Users\Home\Desktop\Курсы гигбраинс\Знакомство с языками программирования\Семинары\DZ_Seminar8\task62\bin\Debug\net7.0\task62.runtimeconfig.json
+C:\Users\Home\Desktop\Курсы гигбраинс\Знакомство с языками программирования\Семинары\DZ_Seminar8\task62\bin\Debug\net7.0\task62.dll
+C:\Users\Home\Desktop\Курсы гигбраинс\Знакомство с языками программирования\Семинары\DZ_Seminar8\task62\bin\Debug\net7.0\task62.pdb
+C:\Users\Home\Desktop\Курсы гигбраинс\Знакомство с языками программирования\Семинары\DZ_Seminar8\task62\obj\Debug\net7.0\task62.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Курсы гигбраинс\Знакомство с языками программирования\Семинары\DZ_Seminar8\task62\obj\Debug\net7.0\task62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Курсы гигбраинс\Знакомство с языками программирования\Семинары\DZ_Seminar8\task62\obj\Debug\net7.0\task62.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Курсы гигбраинс\Знакомство с языками программирования\Семинары\DZ_Seminar8\task62\obj\Debug\net7.0\task62.AssemblyInfo.cs
+C:\Users\Home\Desktop\Курсы гигбраинс\Знакомство с языками программирования\Семинары\DZ_Seminar8\task62\obj\Debug\net7.0\task62.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Курсы гигбраинс\Знакомство с языками программирования\Семинары\DZ_Seminar8\task62\obj\Debug\net7.0\task62.dll
+C:\Users\Home\Desktop\Курсы гигбраинс\Знакомство с языками программирования\Семинары\DZ_Seminar8\task62\obj\Debug\net7.0\refint\task62.dll
+C:\Users\Home\Desktop\Курсы гигбраинс\Знакомство с языками программирования\Семинары\DZ_Seminar8\task62\obj\Debug\net7.0\task62.pdb
+C:\Users\Home\Desktop\Курсы гигбраинс\Знакомство с языками программирования\Семинары\DZ_Seminar8\task62\obj\Debug\net7.0\task62.genruntimeconfig.cache
+C:\Users\Home\Desktop\Курсы гигбраинс\Знакомство с языками программирования\Семинары\DZ_Seminar8\task62\obj\Debug\net7.0\ref\task62.dll
